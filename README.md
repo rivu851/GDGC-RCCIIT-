@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 GDG on Campus RCCIIT Website (2025–2026)
 
-## Getting Started
+A modern and responsive website for **Google Developer Groups on Campus (GDGoC), RCC Institute of Information Technology, Kolkata**, showcasing events, team members, and updates from the Google developer community in India.
 
-First, run the development server:
+---
+
+## 🌐 Overview
+
+This platform represents the official web presence of GDG on Campus RCCIIT — a student-led tech community supported by Google. It serves as a central hub where students can:
+
+* Explore upcoming and past events
+* Learn about the team and community
+* Stay updated with Google developer initiatives
+* Discover projects and collaborative opportunities
+
+---
+
+## ✨ Features
+
+* 📅 **Events & Workshops**
+
+  * Hackathons, bootcamps, and info sessions
+  * Detailed event highlights and participation opportunities
+
+* 👥 **Team & Community**
+
+  * Core team members, leads, and contributors
+  * Domains like Web, AI/ML, Cloud, and more
+
+* 📰 **Latest Updates**
+
+  * Announcements and news from the GDG ecosystem
+  * Highlights from the Google developer community in India
+
+* 💡 **Projects & Innovation**
+
+  * Showcasing student-built projects
+  * Encouraging collaboration and real-world problem solving
+
+* 📱 **Responsive Experience**
+
+  * Seamless usage across mobile, tablet, and desktop
+
+---
+
+## 🎯 Purpose
+
+* Provide a centralized platform for GDG RCCIIT activities
+* Encourage participation in technical events and programs
+* Showcase student innovation and achievements
+* Foster a strong developer community on campus
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/gdg-rcciit-website.git
+cd gdg-rcciit-website
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4️⃣ Open in Browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌟 Future Improvements
 
-To learn more about Next.js, take a look at the following resources:
+* 🔐 Google Sign-In integration
+* 📊 Admin panel for managing events and content
+* 🤖 Integration with Google developer tools and APIs
+* 🧑‍🏫 Blogs, resources, and learning tracks
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
+Contributions are welcome!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork the repository
+2. Create a new branch (`feature/your-feature`)
+3. Commit your changes
+4. Push and open a Pull Request
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📢 Community
+
+GDG on Campus RCCIIT is part of a global initiative where students:
+
+* Learn and explore modern technologies
+* Build impactful projects
+* Collaborate and grow together
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 💙 Acknowledgements
+
+* Google Developer Groups
+* GDG on Campus Community
+* RCC Institute of Information Technology
+
+---
+
+> Built with ❤️ by GDG on Campus RCCIIT
